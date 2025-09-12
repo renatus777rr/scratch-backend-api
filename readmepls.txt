@@ -1,7 +1,7 @@
 this is scratch api i made for scratch-www
 
 1. npm install in cmd.
-2. you need postgresql.
+2. you need postgresql on localhost:5432, node.js 18.17.1.
 3. create database named scratchapi
 4. create these tables:
  public | follows          | table | postgres
@@ -103,4 +103,5 @@ change it to 'process.env.API_HOST': JSON.stringify('http://localhost:3000'), an
 9. run npm run start in the scratch-www.
 10. be happy, you set up the backend.
 the accounts doesnt work, i mean work but really you cant edit projects with account and watch projects/:id 
+
 page.
