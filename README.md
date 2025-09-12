@@ -3,7 +3,7 @@ backend for frontend scratch-www
 this is scratch api i made for scratch-www
 requirements:
 node.js 18.17.1 (idk about older and newer)
-postgresql 13
+postgresql 13 on localhost:5432.
 1. npm install in cmd.
 2. create database named scratchapi
 3. create these tables:
