@@ -1,6 +1,6 @@
 # Scratch API Backend
-backend for frontend scratch-www
-this is scratch api i made for scratch-www
+this is scratch api i made for scratch-www.
+better use readmepls.txt instead of this mess.
 requirements:
 node.js 18.17.1 (idk about older and newer)
 postgresql 13 on localhost:5432.
