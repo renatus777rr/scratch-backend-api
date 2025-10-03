@@ -1,4 +1,5 @@
 # Scratch API Backend
+<a href="3.0"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Scratch Backend Version"></a>
 this is scratch api i made for scratch-www.
 better use readmepls.txt instead of this mess.
 requirements:
